@@ -1,0 +1,4082 @@
+[
+  {
+    "trademark1": "荣耀",
+    "trademark2": "茉耀",
+    "label": 0
+  },
+  {
+    "trademark1": "荣耀",
+    "trademark2": "茱耀",
+    "label": 0
+  },
+  {
+    "trademark1": "荣耀",
+    "trademark2": "荥耀",
+    "label": 0
+  },
+  {
+    "trademark1": "荣耀",
+    "trademark2": "莱耀",
+    "label": 0
+  },
+  {
+    "trademark1": "荣耀",
+    "trademark2": "菜耀",
+    "label": 0
+  },
+  {
+    "trademark1": "魅族",
+    "trademark2": "魃族",
+    "label": 0
+  },
+  {
+    "trademark1": "魅族",
+    "trademark2": "魅旅",
+    "label": 0
+  },
+  {
+    "trademark1": "联想",
+    "trademark2": "朕想",
+    "label": 0
+  },
+  {
+    "trademark1": "联想",
+    "trademark2": "肤想",
+    "label": 0
+  },
+  {
+    "trademark1": "联想",
+    "trademark2": "胱想",
+    "label": 1
+  },
+  {
+    "trademark1": "海尔",
+    "trademark2": "侮尔",
+    "label": 0
+  },
+  {
+    "trademark1": "海尔",
+    "trademark2": "诲尔",
+    "label": 0
+  },
+  {
+    "trademark1": "格力",
+    "trademark2": "袼力",
+    "label": 0
+  },
+  {
+    "trademark1": "海信",
+    "trademark2": "侮信",
+    "label": 0
+  },
+  {
+    "trademark1": "海信",
+    "trademark2": "诲信",
+    "label": 0
+  },
+  {
+    "trademark1": "海信",
+    "trademark2": "海佶",
+    "label": 1
+  },
+  {
+    "trademark1": "海信",
+    "trademark2": "海倌",
+    "label": 1
+  },
+  {
+    "trademark1": "海信",
+    "trademark2": "海倍",
+    "label": 1
+  },
+  {
+    "trademark1": "创维",
+    "trademark2": "创堆",
+    "label": 0
+  },
+  {
+    "trademark1": "创维",
+    "trademark2": "创惟",
+    "label": 0
+  },
+  {
+    "trademark1": "创维",
+    "trademark2": "创推",
+    "label": 0
+  },
+  {
+    "trademark1": "创维",
+    "trademark2": "创椎",
+    "label": 0
+  },
+  {
+    "trademark1": "创维",
+    "trademark2": "创稚",
+    "label": 0
+  },
+  {
+    "trademark1": "创维",
+    "trademark2": "创锥",
+    "label": 0
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "康住",
+    "label": 0
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "凛佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "厚佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "唐佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "展佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "庸佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "廑佳",
+    "label": 1
+  },
+  {
+    "trademark1": "廑佳",
+    "trademark2": "廛佳",
+    "label": 0
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "廪佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "摩佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "磨佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "禀佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "糜佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "縻佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "膺佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "蘑佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "蘼佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "鏖佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "靡佳",
+    "label": 1
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "靥佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "餍佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "魇佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "魔佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "鹰佳",
+    "label": 2
+  },
+  {
+    "trademark1": "麋佳",
+    "trademark2": "麇佳",
+    "label": 0
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "麈佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "麋佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "麝佳",
+    "label": 2
+  },
+  {
+    "trademark1": "康佳",
+    "trademark2": "麾佳",
+    "label": 2
+  },
+  {
+    "trademark1": "方太",
+    "trademark2": "方大",
+    "label": 0
+  },
+  {
+    "trademark1": "方太",
+    "trademark2": "方犬",
+    "label": 0
+  },
+  {
+    "trademark1": "华帝",
+    "trademark2": "华带",
+    "label": 0
+  },
+  {
+    "trademark1": "华帝",
+    "trademark2": "华芾",
+    "label": 0
+  },
+  {
+    "trademark1": "华帝",
+    "trademark2": "华苦",
+    "label": 0
+  },
+  {
+    "trademark1": "华帝",
+    "trademark2": "华苫",
+    "label": 0
+  },
+  {
+    "trademark1": "九阳",
+    "trademark2": "丸阳",
+    "label": 0
+  },
+  {
+    "trademark1": "格兰仕",
+    "trademark2": "袼兰仕",
+    "label": 0
+  },
+  {
+    "trademark1": "格兰仕",
+    "trademark2": "格兰什",
+    "label": 0
+  },
+  {
+    "trademark1": "科沃斯",
+    "trademark2": "料沃斯",
+    "label": 0
+  },
+  {
+    "trademark1": "石头科技",
+    "trademark2": "石头料技",
+    "label": 0
+  },
+  {
+    "trademark1": "石头科技",
+    "trademark2": "石头科伎",
+    "label": 0
+  },
+  {
+    "trademark1": "石头科技",
+    "trademark2": "石头科忮",
+    "label": 0
+  },
+  {
+    "trademark1": "石头科技",
+    "trademark2": "石头科按",
+    "label": 0
+  },
+  {
+    "trademark1": "石头科技",
+    "trademark2": "石头科枝",
+    "label": 0
+  },
+  {
+    "trademark1": "石头科技",
+    "trademark2": "石头科校",
+    "label": 0
+  },
+  {
+    "trademark1": "石头科技",
+    "trademark2": "石头科桉",
+    "label": 0
+  },
+  {
+    "trademark1": "追觅",
+    "trademark2": "造觅",
+    "label": 0
+  },
+  {
+    "trademark1": "大疆",
+    "trademark2": "太疆",
+    "label": 0
+  },
+  {
+    "trademark1": "大疆",
+    "trademark2": "犬疆",
+    "label": 0
+  },
+  {
+    "trademark1": "科大讯飞",
+    "trademark2": "料大讯飞",
+    "label": 0
+  },
+  {
+    "trademark1": "科大讯飞",
+    "trademark2": "科太讯飞",
+    "label": 0
+  },
+  {
+    "trademark1": "科大讯飞",
+    "trademark2": "科犬讯飞",
+    "label": 0
+  },
+  {
+    "trademark1": "优派",
+    "trademark2": "忧派",
+    "label": 0
+  },
+  {
+    "trademark1": "优派",
+    "trademark2": "扰派",
+    "label": 0
+  },
+  {
+    "trademark1": "漫步者",
+    "trademark2": "浸步者",
+    "label": 0
+  },
+  {
+    "trademark1": "漫步者",
+    "trademark2": "谩步者",
+    "label": 0
+  },
+  {
+    "trademark1": "紫米",
+    "trademark2": "索米",
+    "label": 0
+  },
+  {
+    "trademark1": "紫米",
+    "trademark2": "萦米",
+    "label": 0
+  },
+  {
+    "trademark1": "倍思",
+    "trademark2": "佶思",
+    "label": 0
+  },
+  {
+    "trademark1": "倍思",
+    "trademark2": "信思",
+    "label": 0
+  },
+  {
+    "trademark1": "倍思",
+    "trademark2": "倌思",
+    "label": 0
+  },
+  {
+    "trademark1": "倍思",
+    "trademark2": "倍恩",
+    "label": 0
+  },
+  {
+    "trademark1": "坚果",
+    "trademark2": "坚杲",
+    "label": 0
+  },
+  {
+    "trademark1": "极米",
+    "trademark2": "扳米",
+    "label": 0
+  },
+  {
+    "trademark1": "极米",
+    "trademark2": "板米",
+    "label": 0
+  },
+  {
+    "trademark1": "飞利浦",
+    "trademark2": "飞利埔",
+    "label": 0
+  },
+  {
+    "trademark1": "飞利浦",
+    "trademark2": "飞利墙",
+    "label": 0
+  },
+  {
+    "trademark1": "索尼",
+    "trademark2": "紫尼",
+    "label": 0
+  },
+  {
+    "trademark1": "索尼",
+    "trademark2": "萦尼",
+    "label": 0
+  },
+  {
+    "trademark1": "苹果",
+    "trademark2": "苹杲",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼凛",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼厚",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼唐",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼展",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼庸",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼廑",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼廛",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼廪",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼摩",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼磨",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼禀",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼糜",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼縻",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼膺",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼蘑",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼蘼",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼鏖",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼靡",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼靥",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼餍",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼魇",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼魔",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼鹰",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼麇",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼麈",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼麋",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼麝",
+    "label": 0
+  },
+  {
+    "trademark1": "尼康",
+    "trademark2": "尼麾",
+    "label": 0
+  },
+  {
+    "trademark1": "戴森",
+    "trademark2": "截森",
+    "label": 0
+  },
+  {
+    "trademark1": "惠普",
+    "trademark2": "崽普",
+    "label": 0
+  },
+  {
+    "trademark1": "惠普",
+    "trademark2": "怠普",
+    "label": 0
+  },
+  {
+    "trademark1": "惠普",
+    "trademark2": "急普",
+    "label": 0
+  },
+  {
+    "trademark1": "惠普",
+    "trademark2": "息普",
+    "label": 0
+  },
+  {
+    "trademark1": "惠普",
+    "trademark2": "患普",
+    "label": 0
+  },
+  {
+    "trademark1": "戴尔",
+    "trademark2": "截尔",
+    "label": 0
+  },
+  {
+    "trademark1": "英特尔",
+    "trademark2": "芙特尔",
+    "label": 0
+  },
+  {
+    "trademark1": "英特尔",
+    "trademark2": "荚特尔",
+    "label": 0
+  },
+  {
+    "trademark1": "英伟达",
+    "trademark2": "芙伟达",
+    "label": 0
+  },
+  {
+    "trademark1": "英伟达",
+    "trademark2": "荚伟达",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "凛师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "厚师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "唐师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "展师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "庸师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "廑师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "廛师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "廪师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "摩师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "磨师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "禀师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "糜师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "縻师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "膺师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "蘑师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "蘼师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "鏖师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "靡师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "靥师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "餍师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "魇师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "魔师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "鹰师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "麇师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "麈师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "麋师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "麝师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "麾师傅",
+    "label": 0
+  },
+  {
+    "trademark1": "康师傅",
+    "trademark2": "康师博",
+    "label": 0
+  },
+  {
+    "trademark1": "统一",
+    "trademark2": "钪一",
+    "label": 0
+  },
+  {
+    "trademark1": "统一",
+    "trademark2": "铳一",
+    "label": 0
+  },
+  {
+    "trademark1": "农夫山泉",
+    "trademark2": "农央山泉",
+    "label": 0
+  },
+  {
+    "trademark1": "农夫山泉",
+    "trademark2": "农失山泉",
+    "label": 0
+  },
+  {
+    "trademark1": "农夫山泉",
+    "trademark2": "农夹山泉",
+    "label": 0
+  },
+  {
+    "trademark1": "农夫山泉",
+    "trademark2": "农夫山桌",
+    "label": 0
+  },
+  {
+    "trademark1": "农夫山泉",
+    "trademark2": "农夫山臬",
+    "label": 0
+  },
+  {
+    "trademark1": "怡宝",
+    "trademark2": "恰宝",
+    "label": 0
+  },
+  {
+    "trademark1": "怡宝",
+    "trademark2": "抬宝",
+    "label": 0
+  },
+  {
+    "trademark1": "怡宝",
+    "trademark2": "拾宝",
+    "label": 0
+  },
+  {
+    "trademark1": "怡宝",
+    "trademark2": "饴宝",
+    "label": 0
+  },
+  {
+    "trademark1": "雪碧",
+    "trademark2": "雷碧",
+    "label": 0
+  },
+  {
+    "trademark1": "雪碧",
+    "trademark2": "雹碧",
+    "label": 0
+  },
+  {
+    "trademark1": "雪碧",
+    "trademark2": "霉碧",
+    "label": 0
+  },
+  {
+    "trademark1": "雪碧",
+    "trademark2": "霍碧",
+    "label": 0
+  },
+  {
+    "trademark1": "王老吉",
+    "trademark2": "予老吉",
+    "label": 0
+  },
+  {
+    "trademark1": "王老吉",
+    "trademark2": "千老吉",
+    "label": 0
+  },
+  {
+    "trademark1": "王老吉",
+    "trademark2": "壬老吉",
+    "label": 0
+  },
+  {
+    "trademark1": "王老吉",
+    "trademark2": "子老吉",
+    "label": 0
+  },
+  {
+    "trademark1": "王老吉",
+    "trademark2": "干老吉",
+    "label": 0
+  },
+  {
+    "trademark1": "王老吉",
+    "trademark2": "玉老吉",
+    "label": 0
+  },
+  {
+    "trademark1": "王老吉",
+    "trademark2": "王老告",
+    "label": 0
+  },
+  {
+    "trademark1": "盼盼",
+    "trademark2": "吩吩",
+    "label": 0
+  },
+  {
+    "trademark1": "盼盼",
+    "trademark2": "吩吩",
+    "label": 0
+  },
+  {
+    "trademark1": "阿尔卑斯",
+    "trademark2": "呵尔卑斯",
+    "label": 0
+  },
+  {
+    "trademark1": "德芙",
+    "trademark2": "德英",
+    "label": 0
+  },
+  {
+    "trademark1": "德芙",
+    "trademark2": "德荚",
+    "label": 0
+  },
+  {
+    "trademark1": "好时",
+    "trademark2": "奸时",
+    "label": 0
+  },
+  {
+    "trademark1": "好时",
+    "trademark2": "妊时",
+    "label": 0
+  },
+  {
+    "trademark1": "玛氏",
+    "trademark2": "玛氐",
+    "label": 0
+  },
+  {
+    "trademark1": "太平",
+    "trademark2": "大平",
+    "label": 0
+  },
+  {
+    "trademark1": "太平",
+    "trademark2": "犬平",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "凛元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "厚元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "唐元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "展元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "庸元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "廑元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "廛元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "廪元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "摩元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "磨元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "禀元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "糜元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "縻元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "膺元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "蘑元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "蘼元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "鏖元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "靡元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "靥元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "餍元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "魇元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "魔元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "鹰元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "麇元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "麈元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "麋元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "麝元",
+    "label": 0
+  },
+  {
+    "trademark1": "康元",
+    "trademark2": "麾元",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "兽顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "善顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "喜顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "囊顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "曩顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "橐顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "纛顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "蠢顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "蠹顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "軎顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "靠顿",
+    "label": 0
+  },
+  {
+    "trademark1": "嘉顿",
+    "trademark2": "鲁顿",
+    "label": 0
+  },
+  {
+    "trademark1": "良品铺子",
+    "trademark2": "良品铺予",
+    "label": 0
+  },
+  {
+    "trademark1": "良品铺子",
+    "trademark2": "良品铺千",
+    "label": 0
+  },
+  {
+    "trademark1": "良品铺子",
+    "trademark2": "良品铺壬",
+    "label": 0
+  },
+  {
+    "trademark1": "良品铺子",
+    "trademark2": "良品铺干",
+    "label": 0
+  },
+  {
+    "trademark1": "百草味",
+    "trademark2": "百萆味",
+    "label": 0
+  },
+  {
+    "trademark1": "百草味",
+    "trademark2": "百革味",
+    "label": 0
+  },
+  {
+    "trademark1": "百草味",
+    "trademark2": "百草咪",
+    "label": 0
+  },
+  {
+    "trademark1": "百草味",
+    "trademark2": "百草昧",
+    "label": 0
+  },
+  {
+    "trademark1": "来伊份",
+    "trademark2": "宋伊份",
+    "label": 0
+  },
+  {
+    "trademark1": "来伊份",
+    "trademark2": "未伊份",
+    "label": 0
+  },
+  {
+    "trademark1": "来伊份",
+    "trademark2": "末伊份",
+    "label": 0
+  },
+  {
+    "trademark1": "来伊份",
+    "trademark2": "朱伊份",
+    "label": 0
+  },
+  {
+    "trademark1": "来伊份",
+    "trademark2": "束伊份",
+    "label": 0
+  },
+  {
+    "trademark1": "来伊份",
+    "trademark2": "柬伊份",
+    "label": 0
+  },
+  {
+    "trademark1": "来伊份",
+    "trademark2": "耒伊份",
+    "label": 0
+  },
+  {
+    "trademark1": "洽洽",
+    "trademark2": "治治",
+    "label": 0
+  },
+  {
+    "trademark1": "洽洽",
+    "trademark2": "浍浍",
+    "label": 1
+  },
+  {
+    "trademark1": "洽洽",
+    "trademark2": "涂涂",
+    "label": 1
+  },
+  {
+    "trademark1": "洽洽",
+    "trademark2": "淦淦",
+    "label": 2
+  },
+  {
+    "trademark1": "金丝猴",
+    "trademark2": "佥丝猴",
+    "label": 0
+  },
+  {
+    "trademark1": "金丝猴",
+    "trademark2": "全丝猴",
+    "label": 0
+  },
+  {
+    "trademark1": "大白兔",
+    "trademark2": "太白兔",
+    "label": 0
+  },
+  {
+    "trademark1": "大白兔",
+    "trademark2": "犬白兔",
+    "label": 0
+  },
+  {
+    "trademark1": "大白兔",
+    "trademark2": "大白免",
+    "label": 0
+  },
+  {
+    "trademark1": "金帝",
+    "trademark2": "佥帝",
+    "label": 0
+  },
+  {
+    "trademark1": "金帝",
+    "trademark2": "全帝",
+    "label": 0
+  },
+  {
+    "trademark1": "金帝",
+    "trademark2": "金带",
+    "label": 0
+  },
+  {
+    "trademark1": "金帝",
+    "trademark2": "金芾",
+    "label": 0
+  },
+  {
+    "trademark1": "金帝",
+    "trademark2": "金苦",
+    "label": 0
+  },
+  {
+    "trademark1": "金帝",
+    "trademark2": "金苫",
+    "label": 0
+  },
+  {
+    "trademark1": "蒙牛",
+    "trademark2": "蒙午",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安募希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安塞希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安墓希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安察希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安寨希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安幂希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安幕希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安摹希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安暮希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安萋希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安萘希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安蒂希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安蓁希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安蓦希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安蔡希",
+    "label": 0
+  },
+  {
+    "trademark1": "安慕希",
+    "trademark2": "安辜希",
+    "label": 0
+  },
+  {
+    "trademark1": "莫斯利安",
+    "trademark2": "臭斯利安",
+    "label": 0
+  },
+  {
+    "trademark1": "莫斯利安",
+    "trademark2": "萸斯利安",
+    "label": 0
+  },
+  {
+    "trademark1": "金典",
+    "trademark2": "佥典",
+    "label": 0
+  },
+  {
+    "trademark1": "金典",
+    "trademark2": "全典",
+    "label": 0
+  },
+  {
+    "trademark1": "海天",
+    "trademark2": "侮天",
+    "label": 0
+  },
+  {
+    "trademark1": "海天",
+    "trademark2": "诲天",
+    "label": 0
+  },
+  {
+    "trademark1": "海天",
+    "trademark2": "海夭",
+    "label": 0
+  },
+  {
+    "trademark1": "李锦记",
+    "trademark2": "孛锦记",
+    "label": 0
+  },
+  {
+    "trademark1": "李锦记",
+    "trademark2": "李槔记",
+    "label": 0
+  },
+  {
+    "trademark1": "李锦记",
+    "trademark2": "李镜记",
+    "label": 0
+  },
+  {
+    "trademark1": "李锦记",
+    "trademark2": "李棉记",
+    "label": 0
+  },
+  {
+    "trademark1": "老干妈",
+    "trademark2": "老予妈",
+    "label": 0
+  },
+  {
+    "trademark1": "老干妈",
+    "trademark2": "老千妈",
+    "label": 0
+  },
+  {
+    "trademark1": "老干妈",
+    "trademark2": "老子妈",
+    "label": 0
+  },
+  {
+    "trademark1": "老干妈",
+    "trademark2": "老干蚂",
+    "label": 0
+  },
+  {
+    "trademark1": "千禾",
+    "trademark2": "予禾",
+    "label": 0
+  },
+  {
+    "trademark1": "千禾",
+    "trademark2": "子禾",
+    "label": 0
+  },
+  {
+    "trademark1": "千禾",
+    "trademark2": "干禾",
+    "label": 0
+  },
+  {
+    "trademark1": "千禾",
+    "trademark2": "玉禾",
+    "label": 0
+  },
+  {
+    "trademark1": "乌江榨菜",
+    "trademark2": "乌江榨茉",
+    "label": 0
+  },
+  {
+    "trademark1": "乌江榨菜",
+    "trademark2": "乌江榨茱",
+    "label": 0
+  },
+  {
+    "trademark1": "乌江榨菜",
+    "trademark2": "乌江榨荣",
+    "label": 0
+  },
+  {
+    "trademark1": "乌江榨菜",
+    "trademark2": "乌江榨荥",
+    "label": 0
+  },
+  {
+    "trademark1": "乌江榨菜",
+    "trademark2": "乌江榨莱",
+    "label": 0
+  },
+  {
+    "trademark1": "涪陵榨菜",
+    "trademark2": "涪陵榨茉",
+    "label": 0
+  },
+  {
+    "trademark1": "涪陵榨菜",
+    "trademark2": "涪陵榨茱",
+    "label": 0
+  },
+  {
+    "trademark1": "涪陵榨菜",
+    "trademark2": "涪陵榨荣",
+    "label": 0
+  },
+  {
+    "trademark1": "涪陵榨菜",
+    "trademark2": "涪陵榨荥",
+    "label": 0
+  },
+  {
+    "trademark1": "涪陵榨菜",
+    "trademark2": "涪陵榨莱",
+    "label": 0
+  },
+  {
+    "trademark1": "金锣",
+    "trademark2": "佥锣",
+    "label": 0
+  },
+  {
+    "trademark1": "金锣",
+    "trademark2": "全锣",
+    "label": 0
+  },
+  {
+    "trademark1": "金锣",
+    "trademark2": "金椤",
+    "label": 0
+  },
+  {
+    "trademark1": "美好",
+    "trademark2": "美奸",
+    "label": 0
+  },
+  {
+    "trademark1": "美好",
+    "trademark2": "美妊",
+    "label": 0
+  },
+  {
+    "trademark1": "喜之郎",
+    "trademark2": "兽之郎",
+    "label": 0
+  },
+  {
+    "trademark1": "喜之郎",
+    "trademark2": "善之郎",
+    "label": 0
+  },
+  {
+    "trademark1": "喜之郎",
+    "trademark2": "軎之郎",
+    "label": 0
+  },
+  {
+    "trademark1": "绝味",
+    "trademark2": "绝咪",
+    "label": 0
+  },
+  {
+    "trademark1": "绝味",
+    "trademark2": "绝昧",
+    "label": 0
+  },
+  {
+    "trademark1": "煌上煌",
+    "trademark2": "煌土煌",
+    "label": 0
+  },
+  {
+    "trademark1": "煌上煌",
+    "trademark2": "煌士煌",
+    "label": 0
+  },
+  {
+    "trademark1": "东阿阿胶",
+    "trademark2": "东呵呵胶",
+    "label": 1
+  },
+  {
+    "trademark1": "东阿阿胶",
+    "trademark2": "东阿阿腔",
+    "label": 0
+  },
+  {
+    "trademark1": "福牌阿胶",
+    "trademark2": "福脾阿胶",
+    "label": 0
+  },
+  {
+    "trademark1": "福牌阿胶",
+    "trademark2": "福牌呵胶",
+    "label": 0
+  },
+  {
+    "trademark1": "福牌阿胶",
+    "trademark2": "福牌阿腔",
+    "label": 0
+  },
+  {
+    "trademark1": "五粮液",
+    "trademark2": "五稂液",
+    "label": 0
+  },
+  {
+    "trademark1": "洋河",
+    "trademark2": "佯河",
+    "label": 0
+  },
+  {
+    "trademark1": "洋河",
+    "trademark2": "徉河",
+    "label": 0
+  },
+  {
+    "trademark1": "洋河",
+    "trademark2": "详河",
+    "label": 0
+  },
+  {
+    "trademark1": "剑南春",
+    "trademark2": "刽南春",
+    "label": 0
+  },
+  {
+    "trademark1": "剑南春",
+    "trademark2": "剑南舂",
+    "label": 0
+  },
+  {
+    "trademark1": "古井贡酒",
+    "trademark2": "古并贡酒",
+    "label": 0
+  },
+  {
+    "trademark1": "水井坊",
+    "trademark2": "水并坊",
+    "label": 0
+  },
+  {
+    "trademark1": "水井坊",
+    "trademark2": "水井仿",
+    "label": 0
+  },
+  {
+    "trademark1": "水井坊",
+    "trademark2": "水井彷",
+    "label": 0
+  },
+  {
+    "trademark1": "水井坊",
+    "trademark2": "水井枋",
+    "label": 0
+  },
+  {
+    "trademark1": "水井坊",
+    "trademark2": "水井访",
+    "label": 0
+  },
+  {
+    "trademark1": "青岛啤酒",
+    "trademark2": "箐岛啤酒",
+    "label": 0
+  },
+  {
+    "trademark1": "青岛啤酒",
+    "trademark2": "箦岛啤酒",
+    "label": 0
+  },
+  {
+    "trademark1": "青岛啤酒",
+    "trademark2": "篑岛啤酒",
+    "label": 0
+  },
+  {
+    "trademark1": "雪花啤酒",
+    "trademark2": "雷花啤酒",
+    "label": 0
+  },
+  {
+    "trademark1": "雪花啤酒",
+    "trademark2": "雪花睥酒",
+    "label": 0
+  },
+  {
+    "trademark1": "雪花啤酒",
+    "trademark2": "雪花陴酒",
+    "label": 0
+  },
+  {
+    "trademark1": "燕京啤酒",
+    "trademark2": "燕京睥酒",
+    "label": 0
+  },
+  {
+    "trademark1": "燕京啤酒",
+    "trademark2": "燕京陴酒",
+    "label": 0
+  },
+  {
+    "trademark1": "哈尔滨啤酒",
+    "trademark2": "哈尔滨睥酒",
+    "label": 0
+  },
+  {
+    "trademark1": "哈尔滨啤酒",
+    "trademark2": "哈尔滨陴酒",
+    "label": 0
+  },
+  {
+    "trademark1": "重庆啤酒",
+    "trademark2": "堇庆啤酒",
+    "label": 0
+  },
+  {
+    "trademark1": "重庆啤酒",
+    "trademark2": "童庆啤酒",
+    "label": 0
+  },
+  {
+    "trademark1": "重庆啤酒",
+    "trademark2": "重庆睥酒",
+    "label": 0
+  },
+  {
+    "trademark1": "重庆啤酒",
+    "trademark2": "重庆陴酒",
+    "label": 0
+  },
+  {
+    "trademark1": "长城",
+    "trademark2": "长域",
+    "label": 0
+  },
+  {
+    "trademark1": "长城",
+    "trademark2": "长诚",
+    "label": 0
+  },
+  {
+    "trademark1": "长城",
+    "trademark2": "长诫",
+    "label": 0
+  },
+  {
+    "trademark1": "王朝",
+    "trademark2": "壬朝",
+    "label": 0
+  },
+  {
+    "trademark1": "王朝",
+    "trademark2": "玉朝",
+    "label": 0
+  },
+  {
+    "trademark1": "江小白",
+    "trademark2": "汪小白",
+    "label": 0
+  },
+  {
+    "trademark1": "瑞幸咖啡",
+    "trademark2": "瑞宰咖啡",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋咖啡",
+    "trademark2": "大平洋咖啡",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋咖啡",
+    "trademark2": "犬平洋咖啡",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋咖啡",
+    "trademark2": "太平佯咖啡",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋咖啡",
+    "trademark2": "太平徉咖啡",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋咖啡",
+    "trademark2": "太平详咖啡",
+    "label": 0
+  },
+  {
+    "trademark1": "奈雪的茶",
+    "trademark2": "奈雷的茶",
+    "label": 0
+  },
+  {
+    "trademark1": "喜茶",
+    "trademark2": "兽茶",
+    "label": 0
+  },
+  {
+    "trademark1": "喜茶",
+    "trademark2": "善茶",
+    "label": 0
+  },
+  {
+    "trademark1": "喜茶",
+    "trademark2": "軎茶",
+    "label": 0
+  },
+  {
+    "trademark1": "蜜雪冰城",
+    "trademark2": "蜜雷冰城",
+    "label": 0
+  },
+  {
+    "trademark1": "蜜雪冰城",
+    "trademark2": "蜜雪冰域",
+    "label": 0
+  },
+  {
+    "trademark1": "蜜雪冰城",
+    "trademark2": "蜜雪冰诚",
+    "label": 0
+  },
+  {
+    "trademark1": "蜜雪冰城",
+    "trademark2": "蜜雪冰诫",
+    "label": 0
+  },
+  {
+    "trademark1": "书亦烧仙草",
+    "trademark2": "书亦挠仙草",
+    "label": 0
+  },
+  {
+    "trademark1": "书亦烧仙草",
+    "trademark2": "书亦桡仙草",
+    "label": 0
+  },
+  {
+    "trademark1": "书亦烧仙草",
+    "trademark2": "书亦绕仙草",
+    "label": 0
+  },
+  {
+    "trademark1": "书亦烧仙草",
+    "trademark2": "书亦铙仙草",
+    "label": 0
+  },
+  {
+    "trademark1": "书亦烧仙草",
+    "trademark2": "书亦饶仙草",
+    "label": 0
+  },
+  {
+    "trademark1": "书亦烧仙草",
+    "trademark2": "书亦烧仙孳",
+    "label": 0
+  },
+  {
+    "trademark1": "书亦烧仙草",
+    "trademark2": "书亦烧仙荸",
+    "label": 0
+  },
+  {
+    "trademark1": "书亦烧仙草",
+    "trademark2": "书亦烧仙萆",
+    "label": 0
+  },
+  {
+    "trademark1": "书亦烧仙草",
+    "trademark2": "书亦烧仙革",
+    "label": 0
+  },
+  {
+    "trademark1": "沪上阿姨",
+    "trademark2": "沪土阿姨",
+    "label": 0
+  },
+  {
+    "trademark1": "沪上阿姨",
+    "trademark2": "沪士阿姨",
+    "label": 0
+  },
+  {
+    "trademark1": "沪上阿姨",
+    "trademark2": "沪上呵姨",
+    "label": 0
+  },
+  {
+    "trademark1": "李宁",
+    "trademark2": "孛宁",
+    "label": 0
+  },
+  {
+    "trademark1": "贵人鸟",
+    "trademark2": "责人鸟",
+    "label": 0
+  },
+  {
+    "trademark1": "贵人鸟",
+    "trademark2": "贵入鸟",
+    "label": 0
+  },
+  {
+    "trademark1": "威富集团",
+    "trademark2": "咸富集团",
+    "label": 0
+  },
+  {
+    "trademark1": "威富集团",
+    "trademark2": "戚富集团",
+    "label": 0
+  },
+  {
+    "trademark1": "威富集团",
+    "trademark2": "威富集因",
+    "label": 0
+  },
+  {
+    "trademark1": "威富集团",
+    "trademark2": "威富集囡",
+    "label": 0
+  },
+  {
+    "trademark1": "威富集团",
+    "trademark2": "威富集囤",
+    "label": 0
+  },
+  {
+    "trademark1": "威富集团",
+    "trademark2": "威富集困",
+    "label": 0
+  },
+  {
+    "trademark1": "阿迪达斯",
+    "trademark2": "呵迪达斯",
+    "label": 0
+  },
+  {
+    "trademark1": "匡威",
+    "trademark2": "匡咸",
+    "label": 0
+  },
+  {
+    "trademark1": "匡威",
+    "trademark2": "匡戚",
+    "label": 0
+  },
+  {
+    "trademark1": "亚瑟士",
+    "trademark2": "亚瑟上",
+    "label": 0
+  },
+  {
+    "trademark1": "亚瑟士",
+    "trademark2": "亚瑟土",
+    "label": 0
+  },
+  {
+    "trademark1": "优衣库",
+    "trademark2": "忧衣库",
+    "label": 0
+  },
+  {
+    "trademark1": "优衣库",
+    "trademark2": "优衣庠",
+    "label": 0
+  },
+  {
+    "trademark1": "杰克琼斯",
+    "trademark2": "杰克谅斯",
+    "label": 0
+  },
+  {
+    "trademark1": "太平鸟",
+    "trademark2": "大平鸟",
+    "label": 0
+  },
+  {
+    "trademark1": "太平鸟",
+    "trademark2": "犬平鸟",
+    "label": 0
+  },
+  {
+    "trademark1": "美特斯邦威",
+    "trademark2": "美特斯邦咸",
+    "label": 0
+  },
+  {
+    "trademark1": "美特斯邦威",
+    "trademark2": "美特斯邦戚",
+    "label": 0
+  },
+  {
+    "trademark1": "雪中飞",
+    "trademark2": "雷中飞",
+    "label": 0
+  },
+  {
+    "trademark1": "雅鹿",
+    "trademark2": "骓鹿",
+    "label": 0
+  },
+  {
+    "trademark1": "九牧王",
+    "trademark2": "丸牧王",
+    "label": 0
+  },
+  {
+    "trademark1": "九牧王",
+    "trademark2": "九牧壬",
+    "label": 0
+  },
+  {
+    "trademark1": "九牧王",
+    "trademark2": "九牧玉",
+    "label": 0
+  },
+  {
+    "trademark1": "海澜之家",
+    "trademark2": "侮澜之家",
+    "label": 0
+  },
+  {
+    "trademark1": "海澜之家",
+    "trademark2": "诲澜之家",
+    "label": 0
+  },
+  {
+    "trademark1": "海澜之家",
+    "trademark2": "海斓之家",
+    "label": 0
+  },
+  {
+    "trademark1": "海澜之家",
+    "trademark2": "海谰之家",
+    "label": 0
+  },
+  {
+    "trademark1": "报喜鸟",
+    "trademark2": "报兽鸟",
+    "label": 0
+  },
+  {
+    "trademark1": "恒源祥",
+    "trademark2": "桔源祥",
+    "label": 0
+  },
+  {
+    "trademark1": "恒源祥",
+    "trademark2": "档源祥",
+    "label": 0
+  },
+  {
+    "trademark1": "恒源祥",
+    "trademark2": "恒源样",
+    "label": 0
+  },
+  {
+    "trademark1": "宝娜斯",
+    "trademark2": "宝哪斯",
+    "label": 0
+  },
+  {
+    "trademark1": "爱慕",
+    "trademark2": "爰慕",
+    "label": 0
+  },
+  {
+    "trademark1": "爱慕",
+    "trademark2": "爱幂",
+    "label": 0
+  },
+  {
+    "trademark1": "维多利亚的秘密",
+    "trademark2": "堆多利亚的秘密",
+    "label": 0
+  },
+  {
+    "trademark1": "维多利亚的秘密",
+    "trademark2": "惟多利亚的秘密",
+    "label": 0
+  },
+  {
+    "trademark1": "维多利亚的秘密",
+    "trademark2": "推多利亚的秘密",
+    "label": 0
+  },
+  {
+    "trademark1": "维多利亚的秘密",
+    "trademark2": "锥多利亚的秘密",
+    "label": 0
+  },
+  {
+    "trademark1": "外交官",
+    "trademark2": "外交宫",
+    "label": 0
+  },
+  {
+    "trademark1": "美旅",
+    "trademark2": "美族",
+    "label": 0
+  },
+  {
+    "trademark1": "稻草人",
+    "trademark2": "稻萆人",
+    "label": 0
+  },
+  {
+    "trademark1": "稻草人",
+    "trademark2": "稻革人",
+    "label": 0
+  },
+  {
+    "trademark1": "稻草人",
+    "trademark2": "稻萆入",
+    "label": 1
+  },
+  {
+    "trademark1": "稻草人",
+    "trademark2": "稻革入",
+    "label": 1
+  },
+  {
+    "trademark1": "金利来",
+    "trademark2": "佥利来",
+    "label": 0
+  },
+  {
+    "trademark1": "吉利",
+    "trademark2": "告利",
+    "label": 0
+  },
+  {
+    "trademark1": "长城",
+    "trademark2": "长域",
+    "label": 0
+  },
+  {
+    "trademark1": "长城",
+    "trademark2": "长诚",
+    "label": 0
+  },
+  {
+    "trademark1": "威马",
+    "trademark2": "咸马",
+    "label": 0
+  },
+  {
+    "trademark1": "威马",
+    "trademark2": "戚马",
+    "label": 0
+  },
+  {
+    "trademark1": "哪吒",
+    "trademark2": "娜吒",
+    "label": 0
+  },
+  {
+    "trademark1": "极氪",
+    "trademark2": "板氪",
+    "label": 0
+  },
+  {
+    "trademark1": "极氪",
+    "trademark2": "极氮",
+    "label": 0
+  },
+  {
+    "trademark1": "极氪",
+    "trademark2": "极氲",
+    "label": 0
+  },
+  {
+    "trademark1": "埃安",
+    "trademark2": "诶安",
+    "label": 0
+  },
+  {
+    "trademark1": "阿维塔",
+    "trademark2": "阿堆塔",
+    "label": 0
+  },
+  {
+    "trademark1": "阿维塔",
+    "trademark2": "阿推塔",
+    "label": 0
+  },
+  {
+    "trademark1": "深蓝",
+    "trademark2": "深篮",
+    "label": 0
+  },
+  {
+    "trademark1": "方程豹",
+    "trademark2": "方裎豹",
+    "label": 0
+  },
+  {
+    "trademark1": "荣威",
+    "trademark2": "茉威",
+    "label": 0
+  },
+  {
+    "trademark1": "荣威",
+    "trademark2": "茱威",
+    "label": 0
+  },
+  {
+    "trademark1": "荣威",
+    "trademark2": "荥威",
+    "label": 0
+  },
+  {
+    "trademark1": "荣威",
+    "trademark2": "莱威",
+    "label": 0
+  },
+  {
+    "trademark1": "荣威",
+    "trademark2": "菜威",
+    "label": 0
+  },
+  {
+    "trademark1": "荣威",
+    "trademark2": "荣咸",
+    "label": 0
+  },
+  {
+    "trademark1": "荣威",
+    "trademark2": "荣戚",
+    "label": 0
+  },
+  {
+    "trademark1": "魏牌",
+    "trademark2": "魏脾",
+    "label": 0
+  },
+  {
+    "trademark1": "东风",
+    "trademark2": "东凤",
+    "label": 0
+  },
+  {
+    "trademark1": "江淮",
+    "trademark2": "江准",
+    "label": 0
+  },
+  {
+    "trademark1": "江淮",
+    "trademark2": "江谁",
+    "label": 0
+  },
+  {
+    "trademark1": "大众",
+    "trademark2": "太众",
+    "label": 0
+  },
+  {
+    "trademark1": "斯巴鲁",
+    "trademark2": "斯巳鲁",
+    "label": 0
+  },
+  {
+    "trademark1": "雷克萨斯",
+    "trademark2": "雪克萨斯",
+    "label": 0
+  },
+  {
+    "trademark1": "雷克萨斯",
+    "trademark2": "霍克萨斯",
+    "label": 0
+  },
+  {
+    "trademark1": "英菲尼迪",
+    "trademark2": "芙菲尼迪",
+    "label": 0
+  },
+  {
+    "trademark1": "英菲尼迪",
+    "trademark2": "荚菲尼迪",
+    "label": 0
+  },
+  {
+    "trademark1": "讴歌",
+    "trademark2": "讴歇",
+    "label": 0
+  },
+  {
+    "trademark1": "标致",
+    "trademark2": "栎致",
+    "label": 0
+  },
+  {
+    "trademark1": "雪铁龙",
+    "trademark2": "雷铁龙",
+    "label": 0
+  },
+  {
+    "trademark1": "雷诺",
+    "trademark2": "雪诺",
+    "label": 0
+  },
+  {
+    "trademark1": "克莱斯勒",
+    "trademark2": "克茉斯勒",
+    "label": 0
+  },
+  {
+    "trademark1": "克莱斯勒",
+    "trademark2": "克茱斯勒",
+    "label": 0
+  },
+  {
+    "trademark1": "克莱斯勒",
+    "trademark2": "克菜斯勒",
+    "label": 0
+  },
+  {
+    "trademark1": "雪佛兰",
+    "trademark2": "雷佛兰",
+    "label": 0
+  },
+  {
+    "trademark1": "雪佛兰",
+    "trademark2": "雪怫兰",
+    "label": 0
+  },
+  {
+    "trademark1": "雪佛兰",
+    "trademark2": "雪悌兰",
+    "label": 0
+  },
+  {
+    "trademark1": "雪佛兰",
+    "trademark2": "雪拂兰",
+    "label": 0
+  },
+  {
+    "trademark1": "兰博基尼",
+    "trademark2": "兰傅基尼",
+    "label": 0
+  },
+  {
+    "trademark1": "劳斯莱斯",
+    "trademark2": "劳斯茉斯",
+    "label": 0
+  },
+  {
+    "trademark1": "劳斯莱斯",
+    "trademark2": "劳斯荣斯",
+    "label": 0
+  },
+  {
+    "trademark1": "劳斯莱斯",
+    "trademark2": "劳斯菜斯",
+    "label": 0
+  },
+  {
+    "trademark1": "柯尼塞格",
+    "trademark2": "柯尼察格",
+    "label": 0
+  },
+  {
+    "trademark1": "柯尼塞格",
+    "trademark2": "柯尼寨格",
+    "label": 0
+  },
+  {
+    "trademark1": "柯尼塞格",
+    "trademark2": "柯尼塞袼",
+    "label": 0
+  },
+  {
+    "trademark1": "爱玛",
+    "trademark2": "爰玛",
+    "label": 0
+  },
+  {
+    "trademark1": "雅迪",
+    "trademark2": "骓迪",
+    "label": 0
+  },
+  {
+    "trademark1": "台铃",
+    "trademark2": "台钤",
+    "label": 0
+  },
+  {
+    "trademark1": "小牛电动",
+    "trademark2": "小午电动",
+    "label": 0
+  },
+  {
+    "trademark1": "九号公司",
+    "trademark2": "丸号公司",
+    "label": 0
+  },
+  {
+    "trademark1": "天猫",
+    "trademark2": "夭猫",
+    "label": 0
+  },
+  {
+    "trademark1": "字节跳动",
+    "trademark2": "宇节跳动",
+    "label": 0
+  },
+  {
+    "trademark1": "抖音",
+    "trademark2": "抖昔",
+    "label": 0
+  },
+  {
+    "trademark1": "西瓜视频",
+    "trademark2": "西瓜枧频",
+    "label": 0
+  },
+  {
+    "trademark1": "火山小视频",
+    "trademark2": "火山小枧频",
+    "label": 0
+  },
+  {
+    "trademark1": "快手",
+    "trademark2": "怏手",
+    "label": 0
+  },
+  {
+    "trademark1": "哔哩哔哩",
+    "trademark2": "哗哩哗哩",
+    "label": 1
+  },
+  {
+    "trademark1": "哔哩哔哩",
+    "trademark2": "晔哩晔哩",
+    "label": 1
+  },
+  {
+    "trademark1": "爱奇艺",
+    "trademark2": "爰奇艺",
+    "label": 0
+  },
+  {
+    "trademark1": "优酷",
+    "trademark2": "忧酷",
+    "label": 0
+  },
+  {
+    "trademark1": "腾讯视频",
+    "trademark2": "腾讯枧频",
+    "label": 0
+  },
+  {
+    "trademark1": "芒果TV",
+    "trademark2": "芒杲TV",
+    "label": 0
+  },
+  {
+    "trademark1": "金山软件",
+    "trademark2": "佥山软件",
+    "label": 0
+  },
+  {
+    "trademark1": "携程",
+    "trademark2": "携裎",
+    "label": 0
+  },
+  {
+    "trademark1": "去哪儿",
+    "trademark2": "去娜儿",
+    "label": 0
+  },
+  {
+    "trademark1": "同程艺龙",
+    "trademark2": "同裎艺龙",
+    "label": 0
+  },
+  {
+    "trademark1": "大众点评",
+    "trademark2": "太众点评",
+    "label": 0
+  },
+  {
+    "trademark1": "百度地图",
+    "trademark2": "百度地囹",
+    "label": 0
+  },
+  {
+    "trademark1": "钉钉",
+    "trademark2": "钌钌",
+    "label": 0
+  },
+  {
+    "trademark1": "企业微信",
+    "trademark2": "企业徵信",
+    "label": 0
+  },
+  {
+    "trademark1": "企业微信",
+    "trademark2": "企业徽信",
+    "label": 0
+  },
+  {
+    "trademark1": "珍爱网",
+    "trademark2": "珍爰网",
+    "label": 0
+  },
+  {
+    "trademark1": "天眼查",
+    "trademark2": "夭眼查",
+    "label": 0
+  },
+  {
+    "trademark1": "金山云",
+    "trademark2": "佥山云",
+    "label": 0
+  },
+  {
+    "trademark1": "七牛云",
+    "trademark2": "七午云",
+    "label": 0
+  },
+  {
+    "trademark1": "网易云音乐",
+    "trademark2": "网易云昔乐",
+    "label": 0
+  },
+  {
+    "trademark1": "QQ音乐",
+    "trademark2": "QQ昔乐",
+    "label": 0
+  },
+  {
+    "trademark1": "酷狗音乐",
+    "trademark2": "酪狗音乐",
+    "label": 0
+  },
+  {
+    "trademark1": "酷狗音乐",
+    "trademark2": "醅狗音乐",
+    "label": 0
+  },
+  {
+    "trademark1": "酷狗音乐",
+    "trademark2": "酷狗昔乐",
+    "label": 0
+  },
+  {
+    "trademark1": "酷我音乐",
+    "trademark2": "酷我昔乐",
+    "label": 0
+  },
+  {
+    "trademark1": "咪咕音乐",
+    "trademark2": "味咕音乐",
+    "label": 0
+  },
+  {
+    "trademark1": "咪咕音乐",
+    "trademark2": "昧咕音乐",
+    "label": 0
+  },
+  {
+    "trademark1": "咪咕音乐",
+    "trademark2": "咪咕昔乐",
+    "label": 0
+  },
+  {
+    "trademark1": "汽水音乐",
+    "trademark2": "汽水昔乐",
+    "label": 0
+  },
+  {
+    "trademark1": "喜马拉雅",
+    "trademark2": "喜马拉骓",
+    "label": 0
+  },
+  {
+    "trademark1": "荔枝",
+    "trademark2": "荔伎",
+    "label": 0
+  },
+  {
+    "trademark1": "荔枝",
+    "trademark2": "荔忮",
+    "label": 0
+  },
+  {
+    "trademark1": "荔枝",
+    "trademark2": "荔技",
+    "label": 0
+  },
+  {
+    "trademark1": "蜻蜓FM",
+    "trademark2": "蜻蜒FM",
+    "label": 0
+  },
+  {
+    "trademark1": "凯叔讲故事",
+    "trademark2": "凯叔讲敌事",
+    "label": 0
+  },
+  {
+    "trademark1": "学而思",
+    "trademark2": "学而恩",
+    "label": 0
+  },
+  {
+    "trademark1": "猿辅导",
+    "trademark2": "狼辅导",
+    "label": 0
+  },
+  {
+    "trademark1": "宝洁",
+    "trademark2": "宝浩",
+    "label": 0
+  },
+  {
+    "trademark1": "联合利华",
+    "trademark2": "朕合利华",
+    "label": 0
+  },
+  {
+    "trademark1": "联合利华",
+    "trademark2": "肤合利华",
+    "label": 0
+  },
+  {
+    "trademark1": "欧莱雅",
+    "trademark2": "欧茉雅",
+    "label": 0
+  },
+  {
+    "trademark1": "欧莱雅",
+    "trademark2": "欧茱雅",
+    "label": 0
+  },
+  {
+    "trademark1": "欧莱雅",
+    "trademark2": "欧荣雅",
+    "label": 0
+  },
+  {
+    "trademark1": "欧莱雅",
+    "trademark2": "欧菜雅",
+    "label": 0
+  },
+  {
+    "trademark1": "欧莱雅",
+    "trademark2": "欧莱骓",
+    "label": 0
+  },
+  {
+    "trademark1": "雅诗兰黛",
+    "trademark2": "骓诗兰黛",
+    "label": 0
+  },
+  {
+    "trademark1": "雅诗兰黛",
+    "trademark2": "雅侍兰黛",
+    "label": 0
+  },
+  {
+    "trademark1": "资生堂",
+    "trademark2": "资主堂",
+    "label": 0
+  },
+  {
+    "trademark1": "清扬",
+    "trademark2": "滇扬",
+    "label": 0
+  },
+  {
+    "trademark1": "清扬",
+    "trademark2": "清杨",
+    "label": 0
+  },
+  {
+    "trademark1": "力士",
+    "trademark2": "力土",
+    "label": 0
+  },
+  {
+    "trademark1": "舒肤佳",
+    "trademark2": "舒朕佳",
+    "label": 0
+  },
+  {
+    "trademark1": "佳洁士",
+    "trademark2": "佳浩士",
+    "label": 0
+  },
+  {
+    "trademark1": "佳洁士",
+    "trademark2": "佳洁上",
+    "label": 0
+  },
+  {
+    "trademark1": "佳洁士",
+    "trademark2": "佳洁土",
+    "label": 0
+  },
+  {
+    "trademark1": "六神",
+    "trademark2": "六抻",
+    "label": 0
+  },
+  {
+    "trademark1": "六必治",
+    "trademark2": "六必洽",
+    "label": 0
+  },
+  {
+    "trademark1": "蓝月亮",
+    "trademark2": "篮月亮",
+    "label": 0
+  },
+  {
+    "trademark1": "威露士",
+    "trademark2": "咸露士",
+    "label": 0
+  },
+  {
+    "trademark1": "威露士",
+    "trademark2": "戚露士",
+    "label": 0
+  },
+  {
+    "trademark1": "纳爱斯",
+    "trademark2": "纳爰斯",
+    "label": 0
+  },
+  {
+    "trademark1": "雕牌",
+    "trademark2": "雕脾",
+    "label": 0
+  },
+  {
+    "trademark1": "洁柔",
+    "trademark2": "浩柔",
+    "label": 0
+  },
+  {
+    "trademark1": "清风",
+    "trademark2": "清凤",
+    "label": 0
+  },
+  {
+    "trademark1": "清风",
+    "trademark2": "请风",
+    "label": 0
+  },
+  {
+    "trademark1": "清风",
+    "trademark2": "请凤",
+    "label": 0
+  },
+  {
+    "trademark1": "舒洁",
+    "trademark2": "舒浩",
+    "label": 0
+  },
+  {
+    "trademark1": "妮维雅",
+    "trademark2": "妮维骓",
+    "label": 0
+  },
+  {
+    "trademark1": "曼秀雷敦",
+    "trademark2": "曼秀雪敦",
+    "label": 0
+  },
+  {
+    "trademark1": "大宝",
+    "trademark2": "太宝",
+    "label": 0
+  },
+  {
+    "trademark1": "珀莱雅",
+    "trademark2": "珀茉雅",
+    "label": 0
+  },
+  {
+    "trademark1": "珀莱雅",
+    "trademark2": "珀茱雅",
+    "label": 0
+  },
+  {
+    "trademark1": "珀莱雅",
+    "trademark2": "珀菜雅",
+    "label": 0
+  },
+  {
+    "trademark1": "珀莱雅",
+    "trademark2": "珀莱骓",
+    "label": 0
+  },
+  {
+    "trademark1": "韩束",
+    "trademark2": "韩柬",
+    "label": 0
+  },
+  {
+    "trademark1": "一叶子",
+    "trademark2": "一叶予",
+    "label": 0
+  },
+  {
+    "trademark1": "一叶子",
+    "trademark2": "一叶千",
+    "label": 0
+  },
+  {
+    "trademark1": "御泥坊",
+    "trademark2": "御泥仿",
+    "label": 0
+  },
+  {
+    "trademark1": "御泥坊",
+    "trademark2": "御泥彷",
+    "label": 0
+  },
+  {
+    "trademark1": "御泥坊",
+    "trademark2": "御泥枋",
+    "label": 0
+  },
+  {
+    "trademark1": "膜法世家",
+    "trademark2": "腊法世家",
+    "label": 0
+  },
+  {
+    "trademark1": "佰草集",
+    "trademark2": "佰萆集",
+    "label": 0
+  },
+  {
+    "trademark1": "佰草集",
+    "trademark2": "佰革集",
+    "label": 0
+  },
+  {
+    "trademark1": "相宜本草",
+    "trademark2": "相宜木草",
+    "label": 0
+  },
+  {
+    "trademark1": "相宜本草",
+    "trademark2": "相宜本革",
+    "label": 0
+  },
+  {
+    "trademark1": "薇诺娜",
+    "trademark2": "薇诺哪",
+    "label": 0
+  },
+  {
+    "trademark1": "花西子",
+    "trademark2": "花西予",
+    "label": 0
+  },
+  {
+    "trademark1": "花西子",
+    "trademark2": "花西千",
+    "label": 0
+  },
+  {
+    "trademark1": "花西子",
+    "trademark2": "花西干",
+    "label": 0
+  },
+  {
+    "trademark1": "稚优泉",
+    "trademark2": "堆优泉",
+    "label": 0
+  },
+  {
+    "trademark1": "蜜丝佛陀",
+    "trademark2": "蜜丝怫陀",
+    "label": 0
+  },
+  {
+    "trademark1": "蜜丝佛陀",
+    "trademark2": "蜜丝拂陀",
+    "label": 0
+  },
+  {
+    "trademark1": "巴黎欧莱雅",
+    "trademark2": "巴黎欧茉雅",
+    "label": 0
+  },
+  {
+    "trademark1": "巴黎欧莱雅",
+    "trademark2": "巴黎欧茱雅",
+    "label": 0
+  },
+  {
+    "trademark1": "巴黎欧莱雅",
+    "trademark2": "巴黎欧菜雅",
+    "label": 0
+  },
+  {
+    "trademark1": "巴黎欧莱雅",
+    "trademark2": "巴黎欧莱骓",
+    "label": 0
+  },
+  {
+    "trademark1": "植村秀",
+    "trademark2": "楂村秀",
+    "label": 0
+  },
+  {
+    "trademark1": "植村秀",
+    "trademark2": "值村秀",
+    "label": 0
+  },
+  {
+    "trademark1": "植村秀",
+    "trademark2": "植衬秀",
+    "label": 0
+  },
+  {
+    "trademark1": "雪花秀",
+    "trademark2": "雷花秀",
+    "label": 0
+  },
+  {
+    "trademark1": "悦诗风吟",
+    "trademark2": "悦侍风吟",
+    "label": 0
+  },
+  {
+    "trademark1": "悦诗风吟",
+    "trademark2": "悦恃风吟",
+    "label": 0
+  },
+  {
+    "trademark1": "悦诗风吟",
+    "trademark2": "悦持风吟",
+    "label": 0
+  },
+  {
+    "trademark1": "悦诗风吟",
+    "trademark2": "悦诗凤吟",
+    "label": 0
+  },
+  {
+    "trademark1": "菲诗小铺",
+    "trademark2": "菲侍小铺",
+    "label": 0
+  },
+  {
+    "trademark1": "菲诗小铺",
+    "trademark2": "菲恃小铺",
+    "label": 0
+  },
+  {
+    "trademark1": "菲诗小铺",
+    "trademark2": "菲持小铺",
+    "label": 0
+  },
+  {
+    "trademark1": "肌肤之钥",
+    "trademark2": "肮肤之钥",
+    "label": 0
+  },
+  {
+    "trademark1": "茵芙莎",
+    "trademark2": "菌芙莎",
+    "label": 0
+  },
+  {
+    "trademark1": "茵芙莎",
+    "trademark2": "茵英莎",
+    "label": 0
+  },
+  {
+    "trademark1": "茵芙莎",
+    "trademark2": "茵荚莎",
+    "label": 0
+  },
+  {
+    "trademark1": "科颜氏",
+    "trademark2": "科颜氐",
+    "label": 0
+  },
+  {
+    "trademark1": "娇韵诗",
+    "trademark2": "娇韵侍",
+    "label": 0
+  },
+  {
+    "trademark1": "娇韵诗",
+    "trademark2": "娇韵恃",
+    "label": 0
+  },
+  {
+    "trademark1": "娇韵诗",
+    "trademark2": "娇韵持",
+    "label": 0
+  },
+  {
+    "trademark1": "赫莲娜",
+    "trademark2": "赭莲娜",
+    "label": 0
+  },
+  {
+    "trademark1": "赫莲娜",
+    "trademark2": "赫莲哪",
+    "label": 0
+  },
+  {
+    "trademark1": "莱珀妮",
+    "trademark2": "茉珀妮",
+    "label": 0
+  },
+  {
+    "trademark1": "莱珀妮",
+    "trademark2": "茱珀妮",
+    "label": 0
+  },
+  {
+    "trademark1": "莱珀妮",
+    "trademark2": "菜珀妮",
+    "label": 0
+  },
+  {
+    "trademark1": "海蓝之谜",
+    "trademark2": "侮蓝之谜",
+    "label": 0
+  },
+  {
+    "trademark1": "海蓝之谜",
+    "trademark2": "诲蓝之谜",
+    "label": 0
+  },
+  {
+    "trademark1": "海蓝之谜",
+    "trademark2": "海篮之谜",
+    "label": 0
+  },
+  {
+    "trademark1": "芝华仕",
+    "trademark2": "芝华什",
+    "label": 0
+  },
+  {
+    "trademark1": "慕思",
+    "trademark2": "募思",
+    "label": 0
+  },
+  {
+    "trademark1": "慕思",
+    "trademark2": "幕思",
+    "label": 0
+  },
+  {
+    "trademark1": "喜临门",
+    "trademark2": "喜临冂",
+    "label": 0
+  },
+  {
+    "trademark1": "雅兰",
+    "trademark2": "骓兰",
+    "label": 0
+  },
+  {
+    "trademark1": "欧神诺",
+    "trademark2": "欧抻诺",
+    "label": 0
+  },
+  {
+    "trademark1": "简一",
+    "trademark2": "商一",
+    "label": 0
+  },
+  {
+    "trademark1": "简一",
+    "trademark2": "筒一",
+    "label": 0
+  },
+  {
+    "trademark1": "简一",
+    "trademark2": "苘一",
+    "label": 0
+  },
+  {
+    "trademark1": "简一",
+    "trademark2": "茴一",
+    "label": 0
+  },
+  {
+    "trademark1": "简一",
+    "trademark2": "茼一",
+    "label": 0
+  },
+  {
+    "trademark1": "金意陶",
+    "trademark2": "佥意陶",
+    "label": 0
+  },
+  {
+    "trademark1": "箭牌",
+    "trademark2": "箭脾",
+    "label": 0
+  },
+  {
+    "trademark1": "汉斯格雅",
+    "trademark2": "汊斯格雅",
+    "label": 0
+  },
+  {
+    "trademark1": "汉斯格雅",
+    "trademark2": "汉斯袼雅",
+    "label": 0
+  },
+  {
+    "trademark1": "汉斯格雅",
+    "trademark2": "汉斯格骓",
+    "label": 0
+  },
+  {
+    "trademark1": "汉斯格雅",
+    "trademark2": "汊斯袼雅",
+    "label": 1
+  },
+  {
+    "trademark1": "汉斯格雅",
+    "trademark2": "汊斯袼骓",
+    "label": 1
+  },
+  {
+    "trademark1": "恒洁",
+    "trademark2": "桓洁",
+    "label": 0
+  },
+  {
+    "trademark1": "惠达",
+    "trademark2": "崽达",
+    "label": 0
+  },
+  {
+    "trademark1": "法恩莎",
+    "trademark2": "法思莎",
+    "label": 0
+  },
+  {
+    "trademark1": "多乐士",
+    "trademark2": "多乐土",
+    "label": 0
+  },
+  {
+    "trademark1": "三棵树",
+    "trademark2": "三裸树",
+    "label": 0
+  },
+  {
+    "trademark1": "三棵树",
+    "trademark2": "三稞树",
+    "label": 0
+  },
+  {
+    "trademark1": "紫荆花漆",
+    "trademark2": "索荆花漆",
+    "label": 0
+  },
+  {
+    "trademark1": "紫荆花漆",
+    "trademark2": "萦荆花漆",
+    "label": 0
+  },
+  {
+    "trademark1": "巴德士",
+    "trademark2": "巴德土",
+    "label": 0
+  },
+  {
+    "trademark1": "联塑",
+    "trademark2": "朕塑",
+    "label": 0
+  },
+  {
+    "trademark1": "联塑",
+    "trademark2": "肤塑",
+    "label": 0
+  },
+  {
+    "trademark1": "金德",
+    "trademark2": "佥德",
+    "label": 0
+  },
+  {
+    "trademark1": "公牛",
+    "trademark2": "公午",
+    "label": 0
+  },
+  {
+    "trademark1": "西门子",
+    "trademark2": "西冂子",
+    "label": 0
+  },
+  {
+    "trademark1": "西门子",
+    "trademark2": "西门予",
+    "label": 0
+  },
+  {
+    "trademark1": "西门子",
+    "trademark2": "西门千",
+    "label": 0
+  },
+  {
+    "trademark1": "西门子",
+    "trademark2": "西门干",
+    "label": 0
+  },
+  {
+    "trademark1": "西门子",
+    "trademark2": "西冂予",
+    "label": 1
+  },
+  {
+    "trademark1": "西门子",
+    "trademark2": "西冂千",
+    "label": 1
+  },
+  {
+    "trademark1": "西门子",
+    "trademark2": "西冂干",
+    "label": 1
+  },
+  {
+    "trademark1": "西门子",
+    "trademark2": "酉门子",
+    "label": 0
+  },
+  {
+    "trademark1": "正泰",
+    "trademark2": "正奏",
+    "label": 0
+  },
+  {
+    "trademark1": "正泰",
+    "trademark2": "正秦",
+    "label": 0
+  },
+  {
+    "trademark1": "雷士照明",
+    "trademark2": "雪士照明",
+    "label": 0
+  },
+  {
+    "trademark1": "雷士照明",
+    "trademark2": "雷土照明",
+    "label": 0
+  },
+  {
+    "trademark1": "雷士照明",
+    "trademark2": "雪土照明",
+    "label": 1
+  },
+  {
+    "trademark1": "佛山照明",
+    "trademark2": "怫山照明",
+    "label": 0
+  },
+  {
+    "trademark1": "佛山照明",
+    "trademark2": "拂山照明",
+    "label": 0
+  },
+  {
+    "trademark1": "佛山照明",
+    "trademark2": "狒山照明",
+    "label": 0
+  },
+  {
+    "trademark1": "三雄板光",
+    "trademark2": "三雄扳光",
+    "label": 0
+  },
+  {
+    "trademark1": "周大福",
+    "trademark2": "周太福",
+    "label": 0
+  },
+  {
+    "trademark1": "周生生",
+    "trademark2": "周主主",
+    "label": 1
+  },
+  {
+    "trademark1": "周生生",
+    "trademark2": "周主主",
+    "label": 1
+  },
+  {
+    "trademark1": "老凤祥",
+    "trademark2": "老风祥",
+    "label": 0
+  },
+  {
+    "trademark1": "老凤祥",
+    "trademark2": "老凤样",
+    "label": 0
+  },
+  {
+    "trademark1": "老凤祥",
+    "trademark2": "老风样",
+    "label": 1
+  },
+  {
+    "trademark1": "中国黄金",
+    "trademark2": "中国黄佥",
+    "label": 0
+  },
+  {
+    "trademark1": "周大生",
+    "trademark2": "周太生",
+    "label": 0
+  },
+  {
+    "trademark1": "明牌珠宝",
+    "trademark2": "明脾珠宝",
+    "label": 0
+  },
+  {
+    "trademark1": "老庙黄金",
+    "trademark2": "老庙黄佥",
+    "label": 0
+  },
+  {
+    "trademark1": "亚一金店",
+    "trademark2": "亚一佥店",
+    "label": 0
+  },
+  {
+    "trademark1": "菜百首饰",
+    "trademark2": "茉百首饰",
+    "label": 0
+  },
+  {
+    "trademark1": "菜百首饰",
+    "trademark2": "荣百首饰",
+    "label": 0
+  },
+  {
+    "trademark1": "菜百首饰",
+    "trademark2": "莱百首饰",
+    "label": 0
+  },
+  {
+    "trademark1": "萃华金店",
+    "trademark2": "莘华金店",
+    "label": 0
+  },
+  {
+    "trademark1": "萃华金店",
+    "trademark2": "萃华佥店",
+    "label": 0
+  },
+  {
+    "trademark1": "戴梦得",
+    "trademark2": "截梦得",
+    "label": 0
+  },
+  {
+    "trademark1": "蒂芙尼",
+    "trademark2": "蒂英尼",
+    "label": 0
+  },
+  {
+    "trademark1": "蒂芙尼",
+    "trademark2": "蒂荚尼",
+    "label": 0
+  },
+  {
+    "trademark1": "宝格丽",
+    "trademark2": "宝袼丽",
+    "label": 0
+  },
+  {
+    "trademark1": "梵克雅宝",
+    "trademark2": "梵克骓宝",
+    "label": 0
+  },
+  {
+    "trademark1": "萧邦",
+    "trademark2": "箫邦",
+    "label": 0
+  },
+  {
+    "trademark1": "江诗丹顿",
+    "trademark2": "汪诗丹顿",
+    "label": 0
+  },
+  {
+    "trademark1": "江诗丹顿",
+    "trademark2": "江侍丹顿",
+    "label": 0
+  },
+  {
+    "trademark1": "江诗丹顿",
+    "trademark2": "江待丹顿",
+    "label": 0
+  },
+  {
+    "trademark1": "江诗丹顿",
+    "trademark2": "江恃丹顿",
+    "label": 0
+  },
+  {
+    "trademark1": "江诗丹顿",
+    "trademark2": "江持丹顿",
+    "label": 0
+  },
+  {
+    "trademark1": "爱彼",
+    "trademark2": "爰彼",
+    "label": 0
+  },
+  {
+    "trademark1": "劳力士",
+    "trademark2": "劳力上",
+    "label": 0
+  },
+  {
+    "trademark1": "劳力士",
+    "trademark2": "劳力土",
+    "label": 0
+  },
+  {
+    "trademark1": "天梭",
+    "trademark2": "夭梭",
+    "label": 0
+  },
+  {
+    "trademark1": "天梭",
+    "trademark2": "天棱",
+    "label": 0
+  },
+  {
+    "trademark1": "汉米尔顿",
+    "trademark2": "汊米尔顿",
+    "label": 0
+  },
+  {
+    "trademark1": "路易威登",
+    "trademark2": "路易咸登",
+    "label": 0
+  },
+  {
+    "trademark1": "路易威登",
+    "trademark2": "路易戚登",
+    "label": 0
+  },
+  {
+    "trademark1": "爱马仕",
+    "trademark2": "爰马仕",
+    "label": 0
+  },
+  {
+    "trademark1": "爱马仕",
+    "trademark2": "爱马什",
+    "label": 0
+  },
+  {
+    "trademark1": "博柏利",
+    "trademark2": "傅柏利",
+    "label": 0
+  },
+  {
+    "trademark1": "博柏利",
+    "trademark2": "博怕利",
+    "label": 0
+  },
+  {
+    "trademark1": "博柏利",
+    "trademark2": "博拍利",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋保险",
+    "trademark2": "大平洋保险",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋保险",
+    "trademark2": "太平佯保险",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋保险",
+    "trademark2": "太平徉保险",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋保险",
+    "trademark2": "太平详保险",
+    "label": 0
+  },
+  {
+    "trademark1": "太平洋保险",
+    "trademark2": "大平徉保险",
+    "label": 1
+  },
+  {
+    "trademark1": "太平洋保险",
+    "trademark2": "大平佯保险",
+    "label": 1
+  },
+  {
+    "trademark1": "太平洋保险",
+    "trademark2": "大平详保险",
+    "label": 1
+  },
+  {
+    "trademark1": "中国人保",
+    "trademark2": "中国入保",
+    "label": 0
+  },
+  {
+    "trademark1": "泰康保险",
+    "trademark2": "奏康保险",
+    "label": 0
+  },
+  {
+    "trademark1": "泰康保险",
+    "trademark2": "秦康保险",
+    "label": 0
+  },
+  {
+    "trademark1": "太平保险",
+    "trademark2": "大平保险",
+    "label": 0
+  },
+  {
+    "trademark1": "安盛天平",
+    "trademark2": "安盛夭平",
+    "label": 0
+  },
+  {
+    "trademark1": "国泰君安",
+    "trademark2": "国奏君安",
+    "label": 0
+  },
+  {
+    "trademark1": "国泰君安",
+    "trademark2": "国秦君安",
+    "label": 0
+  },
+  {
+    "trademark1": "海通",
+    "trademark2": "侮通",
+    "label": 0
+  },
+  {
+    "trademark1": "海通",
+    "trademark2": "诲通",
+    "label": 0
+  },
+  {
+    "trademark1": "华泰",
+    "trademark2": "华奏",
+    "label": 0
+  },
+  {
+    "trademark1": "华泰",
+    "trademark2": "华秦",
+    "label": 0
+  },
+  {
+    "trademark1": "中金",
+    "trademark2": "中佥",
+    "label": 0
+  },
+  {
+    "trademark1": "蚂蚁",
+    "trademark2": "蚂蚊",
+    "label": 0
+  },
+  {
+    "trademark1": "恒大",
+    "trademark2": "桓大",
+    "label": 0
+  },
+  {
+    "trademark1": "恒大",
+    "trademark2": "恒太",
+    "label": 0
+  },
+  {
+    "trademark1": "中海地产",
+    "trademark2": "中诲地产",
+    "label": 0
+  },
+  {
+    "trademark1": "金地集团",
+    "trademark2": "佥地集团",
+    "label": 0
+  },
+  {
+    "trademark1": "远洋集团",
+    "trademark2": "远佯集团",
+    "label": 0
+  },
+  {
+    "trademark1": "远洋集团",
+    "trademark2": "远徉集团",
+    "label": 0
+  },
+  {
+    "trademark1": "远洋集团",
+    "trademark2": "远详集团",
+    "label": 0
+  },
+  {
+    "trademark1": "雅居乐",
+    "trademark2": "骓居乐",
+    "label": 0
+  },
+  {
+    "trademark1": "新城控股",
+    "trademark2": "新诚控股",
+    "label": 0
+  },
+  {
+    "trademark1": "正荣集团",
+    "trademark2": "正茉集团",
+    "label": 0
+  },
+  {
+    "trademark1": "正荣集团",
+    "trademark2": "正茱集团",
+    "label": 0
+  },
+  {
+    "trademark1": "正荣集团",
+    "trademark2": "正荥集团",
+    "label": 0
+  },
+  {
+    "trademark1": "正荣集团",
+    "trademark2": "正莱集团",
+    "label": 0
+  },
+  {
+    "trademark1": "正荣集团",
+    "trademark2": "正菜集团",
+    "label": 0
+  },
+  {
+    "trademark1": "阳光城",
+    "trademark2": "阳光诚",
+    "label": 0
+  },
+  {
+    "trademark1": "泰禾集团",
+    "trademark2": "奏禾集团",
+    "label": 0
+  },
+  {
+    "trademark1": "泰禾集团",
+    "trademark2": "秦禾集团",
+    "label": 0
+  },
+  {
+    "trademark1": "链家",
+    "trademark2": "裢家",
+    "label": 0
+  },
+  {
+    "trademark1": "我爱我家",
+    "trademark2": "我爰我家",
+    "label": 0
+  },
+  {
+    "trademark1": "21世纪不动产",
+    "trademark2": "21世纪不劫产",
+    "label": 0
+  },
+  {
+    "trademark1": "房天下",
+    "trademark2": "房夭下",
+    "label": 0
+  },
+  {
+    "trademark1": "中海物业",
+    "trademark2": "中侮物业",
+    "label": 0
+  },
+  {
+    "trademark1": "中海物业",
+    "trademark2": "中诲物业",
+    "label": 0
+  },
+  {
+    "trademark1": "绿城服务",
+    "trademark2": "绿域服务",
+    "label": 0
+  },
+  {
+    "trademark1": "绿城服务",
+    "trademark2": "绿诚服务",
+    "label": 0
+  },
+  {
+    "trademark1": "绿城服务",
+    "trademark2": "绿诫服务",
+    "label": 0
+  },
+  {
+    "trademark1": "长城物业",
+    "trademark2": "长域物业",
+    "label": 0
+  },
+  {
+    "trademark1": "长城物业",
+    "trademark2": "长诚物业",
+    "label": 0
+  },
+  {
+    "trademark1": "长城物业",
+    "trademark2": "长诫物业",
+    "label": 0
+  },
+  {
+    "trademark1": "彩生活",
+    "trademark2": "彩主活",
+    "label": 0
+  },
+  {
+    "trademark1": "彩生活",
+    "trademark2": "彩生话",
+    "label": 0
+  },
+  {
+    "trademark1": "雅生活服务",
+    "trademark2": "骓生活服务",
+    "label": 0
+  },
+  {
+    "trademark1": "雅生活服务",
+    "trademark2": "雅主活服务",
+    "label": 0
+  },
+  {
+    "trademark1": "雅生活服务",
+    "trademark2": "雅生话服务",
+    "label": 0
+  },
+  {
+    "trademark1": "金科服务",
+    "trademark2": "佥科服务",
+    "label": 0
+  },
+  {
+    "trademark1": "金科服务",
+    "trademark2": "金料服务",
+    "label": 0
+  },
+  {
+    "trademark1": "锦江酒店",
+    "trademark2": "绵江酒店",
+    "label": 0
+  },
+  {
+    "trademark1": "首旅如家",
+    "trademark2": "首族如家",
+    "label": 0
+  },
+  {
+    "trademark1": "华住酒店",
+    "trademark2": "华往酒店",
+    "label": 0
+  },
+  {
+    "trademark1": "万豪国际",
+    "trademark2": "万豪围际",
+    "label": 0
+  },
+  {
+    "trademark1": "香格里拉",
+    "trademark2": "香袼里拉",
+    "label": 0
+  },
+  {
+    "trademark1": "温德姆",
+    "trademark2": "滥德姆",
+    "label": 0
+  },
+  {
+    "trademark1": "雅高集团",
+    "trademark2": "骓高集团",
+    "label": 0
+  },
+  {
+    "trademark1": "君澜酒店",
+    "trademark2": "君斓酒店",
+    "label": 0
+  },
+  {
+    "trademark1": "君澜酒店",
+    "trademark2": "君谰酒店",
+    "label": 0
+  },
+  {
+    "trademark1": "金陵饭店",
+    "trademark2": "佥陵饭店",
+    "label": 0
+  },
+  {
+    "trademark1": "金陵饭店",
+    "trademark2": "全陵饭店",
+    "label": 0
+  },
+  {
+    "trademark1": "白天鹅宾馆",
+    "trademark2": "白夭鹅宾馆",
+    "label": 0
+  },
+  {
+    "trademark1": "中青旅",
+    "trademark2": "中菁旅",
+    "label": 0
+  },
+  {
+    "trademark1": "中青旅",
+    "trademark2": "中青族",
+    "label": 0
+  },
+  {
+    "trademark1": "中青旅",
+    "trademark2": "中菁族",
+    "label": 1
+  },
+  {
+    "trademark1": "携程旅游",
+    "trademark2": "携裎旅游",
+    "label": 0
+  },
+  {
+    "trademark1": "携程旅游",
+    "trademark2": "携程族游",
+    "label": 0
+  },
+  {
+    "trademark1": "携程旅游",
+    "trademark2": "携裎族游",
+    "label": 1
+  },
+  {
+    "trademark1": "途牛旅游",
+    "trademark2": "途午旅游",
+    "label": 0
+  },
+  {
+    "trademark1": "途牛旅游",
+    "trademark2": "途牛族游",
+    "label": 0
+  },
+  {
+    "trademark1": "同程旅游",
+    "trademark2": "同裎旅游",
+    "label": 0
+  },
+  {
+    "trademark1": "同程旅游",
+    "trademark2": "同程族游",
+    "label": 0
+  },
+  {
+    "trademark1": "马蜂窝",
+    "trademark2": "马蜂寓",
+    "label": 0
+  },
+  {
+    "trademark1": "马蜂篙",
+    "trademark2": "马蜂篱",
+    "label": 0
+  },
+  {
+    "trademark1": "马蜂蒿",
+    "trademark2": "马蜂蓠",
+    "label": 0
+  },
+  {
+    "trademark1": "春秋旅游",
+    "trademark2": "舂秋旅游",
+    "label": 0
+  },
+  {
+    "trademark1": "春秋旅游",
+    "trademark2": "春秋族游",
+    "label": 0
+  },
+  {
+    "trademark1": "春秋旅游",
+    "trademark2": "舂秋族游",
+    "label": 1
+  },
+  {
+    "trademark1": "凯撒旅游",
+    "trademark2": "凯橄旅游",
+    "label": 0
+  },
+  {
+    "trademark1": "凯撒旅游",
+    "trademark2": "凯撒族游",
+    "label": 0
+  },
+  {
+    "trademark1": "众信旅游",
+    "trademark2": "众信族游",
+    "label": 0
+  },
+  {
+    "trademark1": "锦江旅游",
+    "trademark2": "锦江族游",
+    "label": 0
+  },
+  {
+    "trademark1": "大润发",
+    "trademark2": "太润发",
+    "label": 0
+  },
+  {
+    "trademark1": "盒马鲜生",
+    "trademark2": "盒马鲜主",
+    "label": 0
+  },
+  {
+    "trademark1": "联华超市",
+    "trademark2": "朕华超市",
+    "label": 0
+  },
+  {
+    "trademark1": "世纪联华",
+    "trademark2": "世纪朕华",
+    "label": 0
+  },
+  {
+    "trademark1": "苏果超市",
+    "trademark2": "苏杲超市",
+    "label": 0
+  },
+  {
+    "trademark1": "北京华联",
+    "trademark2": "北京华朕",
+    "label": 0
+  },
+  {
+    "trademark1": "天虹商场",
+    "trademark2": "夭虹商场",
+    "label": 0
+  },
+  {
+    "trademark1": "王府井百货",
+    "trademark2": "壬府井百货",
+    "label": 0
+  },
+  {
+    "trademark1": "王府井百货",
+    "trademark2": "王府并百货",
+    "label": 0
+  },
+  {
+    "trademark1": "王府井百货",
+    "trademark2": "壬府并百货",
+    "label": 1
+  },
+  {
+    "trademark1": "百联集团",
+    "trademark2": "百朕集团",
+    "label": 0
+  },
+  {
+    "trademark1": "银泰百货",
+    "trademark2": "银奏百货",
+    "label": 0
+  },
+  {
+    "trademark1": "银泰百货",
+    "trademark2": "银秦百货",
+    "label": 0
+  },
+  {
+    "trademark1": "金鹰国际",
+    "trademark2": "佥鹰国际",
+    "label": 0
+  },
+  {
+    "trademark1": "金鹰国际",
+    "trademark2": "金膺国际",
+    "label": 0
+  },
+  {
+    "trademark1": "金鹰国际",
+    "trademark2": "佥膺国际",
+    "label": 1
+  },
+  {
+    "trademark1": "万象城",
+    "trademark2": "万象域",
+    "label": 0
+  },
+  {
+    "trademark1": "大悦城",
+    "trademark2": "大悦域",
+    "label": 0
+  },
+  {
+    "trademark1": "恒隆广场",
+    "trademark2": "桓隆广场",
+    "label": 0
+  },
+  {
+    "trademark1": "屈臣氏",
+    "trademark2": "屈巨氏",
+    "label": 0
+  },
+  {
+    "trademark1": "屈臣氏",
+    "trademark2": "屈臣氐",
+    "label": 0
+  },
+  {
+    "trademark1": "丝芙兰",
+    "trademark2": "丝英兰",
+    "label": 0
+  },
+  {
+    "trademark1": "丝芙兰",
+    "trademark2": "丝荚兰",
+    "label": 0
+  },
+  {
+    "trademark1": "名创优品",
+    "trademark2": "名创忧品",
+    "label": 0
+  }
+]

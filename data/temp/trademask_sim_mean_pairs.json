@@ -1,0 +1,22 @@
+[
+    {
+      "trademark1": "耐克",
+      "trademark2": "耐克运动",
+      "label": 0
+    },
+    {
+      "trademark1": "耐克",
+      "trademark2": "耐克医疗",
+      "label": 2
+    },
+    {
+      "trademark1": "乔丹",
+      "trademark2": "乔丹体育",
+      "label": 0
+    },
+    {
+        "trademark1": "小米",
+        "trademark2": "小米大炮",
+        "label": 0
+    }
+]
