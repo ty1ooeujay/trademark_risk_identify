@@ -1,6 +1,6 @@
 import time
 import argparse
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from transformers import DataCollatorWithPadding, TrainingArguments, Trainer
 from datasets import load_dataset
 
@@ -13,8 +13,8 @@ def main():
     args = argparser.parse_args()
     
     # 加载模型
-    model = AutoModelForSequenceClassification.from_pretrained("hw2942/bert-base-chinese-finetuning-financial-news-sentiment-v2")
-    tokenizer = AutoTokenizer.from_pretrained("hw2942/bert-base-chinese-finetuning-financial-news-sentiment-v2")
+    tokenizer = AutoTokenizer.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
+    model = AutoModelForSequenceClassification.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
     
     # 加载数据集
     fileclass = args.data_path.split(".")[-1]
@@ -28,7 +28,7 @@ def main():
     dataset = dataset.map(lambda examples: tokenizer(examples["sentence1"], examples["sentence2"]), batched=True)
 
     print("-----------------数据样例-----------------")
-    timestamp = time.time()
+    timestamp = time.strftime("%Y%m%d_%H%M%S", time.localtime())
     print(f"时间戳: {timestamp}")
     print(dataset["train"][0]["sentence1"])
     print(dataset["train"][0]["sentence2"])
@@ -37,7 +37,7 @@ def main():
 
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     training_args = TrainingArguments(
-        output_dir=f"weights/{str(timestamp).replace('.', '_')}",
+        output_dir= f"weights/{timestamp}",
         learning_rate=2e-5,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
@@ -57,4 +57,11 @@ def main():
     trainer.train()
 
 if __name__ == "__main__":
-    main()
+    from transformers import AutoModel
+    import tempfile
+    import os
+
+    model = AutoModel.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
+    with tempfile.TemporaryDirectory() as tmp_dir:
+        model.save_pretrained(tmp_dir, max_shard_size="5GB")
+        print(sorted(os.listdir(tmp_dir)))
