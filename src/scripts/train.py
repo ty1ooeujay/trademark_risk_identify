@@ -57,11 +57,4 @@ def main():
     trainer.train()
 
 if __name__ == "__main__":
-    from transformers import AutoModel
-    import tempfile
-    import os
-
-    model = AutoModel.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
-    with tempfile.TemporaryDirectory() as tmp_dir:
-        model.save_pretrained(tmp_dir, max_shard_size="5GB")
-        print(sorted(os.listdir(tmp_dir)))
+    main()
