@@ -13,8 +13,8 @@ def main():
     args = argparser.parse_args()
     
     # 加载模型
-    tokenizer = AutoTokenizer.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
-    model = AutoModelForSequenceClassification.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
+    tokenizer = AutoTokenizer.from_pretrained("src\\models\\bert-base-chinese-finetuned-sentiment")
+    model = AutoModelForSequenceClassification.from_pretrained("src\\models\\bert-base-chinese-finetuned-sentiment")
     
     # 加载数据集
     fileclass = args.data_path.split(".")[-1]
