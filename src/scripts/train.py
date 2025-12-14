@@ -13,8 +13,8 @@ def main():
     args = argparser.parse_args()
     
     # 加载模型
-    tokenizer = AutoTokenizer.from_pretrained("src\\models\\bert-base-chinese-finetuned-sentiment")
-    model = AutoModelForSequenceClassification.from_pretrained("src\\models\\bert-base-chinese-finetuned-sentiment")
+    tokenizer = AutoTokenizer.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
+    model = AutoModelForSequenceClassification.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
     
     # 加载数据集
     fileclass = args.data_path.split(".")[-1]
@@ -30,6 +30,7 @@ def main():
     print("-----------------数据样例-----------------")
     timestamp = time.strftime("%Y%m%d_%H%M%S", time.localtime())
     print(f"时间戳: {timestamp}")
+    print(f"数据集: {dataset}")
     print(dataset["train"][0]["sentence1"])
     print(dataset["train"][0]["sentence2"])
     print(f"标签: {dataset['train'][0]['label']}")
@@ -39,9 +40,14 @@ def main():
     training_args = TrainingArguments(
         output_dir= f"weights/{timestamp}",
         learning_rate=2e-5,
-        per_device_train_batch_size=8,
-        per_device_eval_batch_size=8,
-        num_train_epochs=2,
+        per_device_train_batch_size=32,
+        per_device_eval_batch_size=32,
+        num_train_epochs=100,
+        eval_strategy="epoch",
+        warmup_steps=10,
+        logging_steps=101,
+        save_strategy="epoch",
+        include_for_metrics=["loss"],
         push_to_hub=False,
     )
 
