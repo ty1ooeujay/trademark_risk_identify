@@ -1,26 +1,35 @@
 import time
+import math
 import argparse
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from transformers import DataCollatorWithPadding, TrainingArguments, Trainer
 from datasets import load_dataset
 
+def load_model(model_path: str):
+    """加载模型"""
+    tokenizer = AutoTokenizer.from_pretrained(model_path)
+    model = AutoModelForSequenceClassification.from_pretrained(model_path)
+    return tokenizer, model
+
 def main():
     argparser = argparse.ArgumentParser()
+    argparser.add_argument("--model_path", type=str, default="src/models/bert-base-chinese-finetuned-sentiment")
     argparser.add_argument("--data_path", type=str, default="data/datasets/sim_trademark_pairs.csv")
     argparser.add_argument("--train_split", type=float, default=0.8)
-    argparser.add_argument("--val_split", type=float, default=0.1)
-    argparser.add_argument("--test_split", type=float, default=0.1)
+    argparser.add_argument("--seed", type=int, default=42)
+    argparser.add_argument("--epochs", type=int, default=100)
+    argparser.add_argument("--batch_size", type=int, default=32)
+    argparser.add_argument("--learning_rate", type=float, default=2e-5)
+    argparser.add_argument("--warmup_steps", type=int, default=10)
     args = argparser.parse_args()
     
-    # 加载模型
-    tokenizer = AutoTokenizer.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
-    model = AutoModelForSequenceClassification.from_pretrained("jackietung/bert-base-chinese-finetuned-sentiment")
+    tokenizer, model = load_model(args.model_path)
     
     # 加载数据集
     fileclass = args.data_path.split(".")[-1]
     if fileclass == "csv":
         dataset = load_dataset("csv", data_files=args.data_path)
-        dataset = dataset["train"].train_test_split(train_size=0.8, seed=42)
+        dataset = dataset["train"].train_test_split(train_size=args.train_split, seed=args.seed)
     else:
         raise ValueError(f"不支持的文件格式: {fileclass}")
 
@@ -39,13 +48,13 @@ def main():
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     training_args = TrainingArguments(
         output_dir= f"weights/{timestamp}",
-        learning_rate=2e-5,
-        per_device_train_batch_size=32,
-        per_device_eval_batch_size=32,
-        num_train_epochs=100,
+        learning_rate=args.learning_rate,
+        per_device_train_batch_size=args.batch_size,
+        per_device_eval_batch_size=args.batch_size,
+        num_train_epochs=args.epochs,
         eval_strategy="epoch",
-        warmup_steps=10,
-        logging_steps=101,
+        warmup_steps=args.warmup_steps,
+        logging_steps=int(math.ceil(dataset['train'].num_rows / args.batch_size)),
         save_strategy="epoch",
         include_for_metrics=["loss"],
         push_to_hub=False,
