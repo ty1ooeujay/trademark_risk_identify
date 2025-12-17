@@ -1,0 +1,19 @@
+{
+  "language": "zh",
+  "license": "mit",
+  "tags": [
+    "sentiment-analysis",
+    "text-classification",
+    "chinese",
+    "bert",
+    "customer-feedback",
+    "app-review"
+  ],
+  "datasets": [
+    "custom"
+  ],
+  "metrics": [
+    "f1",
+    "accuracy"
+  ]
+}
